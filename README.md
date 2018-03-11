@@ -10,3 +10,11 @@
 * If there is enough quantity in stock to satisfy order then app displays the summary of the purchase.
 
 ![alt text](screenshots/p3.png "Screenshot Three")
+
+## Technologies used
+
+- Node.js
+- MySQL
+- MySQL NPM Package
+- Javascript
+- Inquirer NPM Package
