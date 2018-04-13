@@ -1,4 +1,4 @@
-# Bamazon App (Simple store)
+# Bamazon App (Simple CLI based store app)
 
 * The app first displays all products, their price and ID to screen and then waits for user to enter ID of the product they wish to purchase.
 
