@@ -1,4 +1,5 @@
-# Bamazon-App
+# Bamazon App (Simple store)
+
 * The app first displays all products, their price and ID to screen and then waits for user to enter ID of the product they wish to purchase.
 
 ![alt text](screenshots/p1.png "Screenshot One")
